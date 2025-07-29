@@ -1,7 +1,7 @@
 Hi 👋 My name is Nattawadee Yuddon
 ==================================
 
-## 👩‍💻 About Me
+##  About Me
 
 🎓 Computer Science student at Kasetsart University, Kamphaeng Saen.  
 💡 Interested in data science, mobile app development, web development and UX/UI design.  
