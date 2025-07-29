@@ -30,4 +30,8 @@ Hi 👋 My name is Nattawadee Yuddon
 <p align="left">
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" /></a>
   <a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+  <a href="https://www.canva.com/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732245.png" width="36" height="36" alt="Canva" /></a>
+  <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/github-colored.svg" width="36" height="36" alt="GitHub" /></a>
+  <a href="https://developer.android.com/studio" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/androidstudio-colored.svg" width="36" height="36" alt="Android Studio" /></a>
 </p>
+
